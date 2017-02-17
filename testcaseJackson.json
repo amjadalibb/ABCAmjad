@@ -1,0 +1,1 @@
+{  "testName" : "Login",  "testModule" : "Dashboard",  "testType" : "Regression",  "testSteps" : [ {    "id" : 1,    "step" : "Open Browser"  }, {    "id" : 2,    "step" : "Enter user name"  }, {    "id" : 3,    "step" : "Enter user password"  }, {    "id" : 4,    "step" : "Click on Login button"  } ],  "verification" : "Logout link should display",  "note" : ""}
