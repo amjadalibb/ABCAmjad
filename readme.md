@@ -1,6 +1,4 @@
-************** Automation Test Analyst – ABC assignment ***************
-
-Note: Each section loads the default page i.e. ABC Home page. It is used here because each test case will start from default state - for the ease of understanding. It can be changed as per the framework.
+************** Automation Test Analyst â€“ ABC assignment ***************
 
 This assignment is divided into 3 sections: Section A, B and C
 
